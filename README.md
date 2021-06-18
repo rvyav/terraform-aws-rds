@@ -1,7 +1,7 @@
 
 # TERRAFORM - AWS RDS INSTANCE
 
-Quick `RDS INSTANCE` instance example.
+Quick `POSTGRES - RDS INSTANCE` instance example.
 
 Currently, the infrastructure already has a VPC with two public subnets.
 
